@@ -60,11 +60,11 @@ const[suggestionText , setSuggestion] = useState("")
 
 {suggestionText && (
         <p>
-          Did you mean: <strong>{suggestionText}</strong>?
+          Did you mean: <strong>{suggestionText}</strong>
         </p>
       )}
     </div>
   );
-};
+};?
 
 export default SpellChecking;
