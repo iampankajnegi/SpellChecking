@@ -65,6 +65,6 @@ const[suggestionText , setSuggestion] = useState("")
       )}
     </div>
   );
-};?
+}
 
 export default SpellChecking;
